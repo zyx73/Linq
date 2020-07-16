@@ -1,0 +1,2 @@
+            string[] s = { "1", "2", "3" };
+            double ave = s.Average(nn => Convert.ToInt16(nn));
